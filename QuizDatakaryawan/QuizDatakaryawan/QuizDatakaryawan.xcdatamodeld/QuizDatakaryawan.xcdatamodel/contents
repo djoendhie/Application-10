@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="13240" systemVersion="" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Karyawan" representedClassName="Karyawan" syncable="YES" codeGenerationType="class">
+        <attribute name="gaji" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="golongan" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id_karyawan" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nama_karyawan" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nama_staff" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Karyawan" positionX="-63" positionY="-18" width="128" height="120"/>
+    </elements>
+</model>
